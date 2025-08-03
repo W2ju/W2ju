@@ -83,12 +83,12 @@
   </a> -->
 
    <!-- WakaTime stats banner -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+ <!--  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@W2ju" height="300em" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/W2ju/W2ju/master/profile-summary-card-output/transparent/4-productive-time.svg" height="200" />
-  </a>
+  </a> -->
 
 
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=W2ju&theme=transparent&include_all_commits=true" height="200em" />
